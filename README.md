@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preet Thakur</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="200" src"![image](https://github.com/user-attachments/assets/c0c7a505-5efc-4f03-91f1-188fdcbd8793)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preet80809&label=Profile%20views&color=0e75b6&style=flat" alt="preet80809" /> </p>
 

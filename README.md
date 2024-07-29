@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preet Thakur</h1>
-<h3 align="center">Highly motivated Data Analyst with a strong academic background in data analytics, proﬁcient in Python and SQL.Skilled in data visualization using Tableau and PowerBI. Experienced in machine learning model training and evaluation. Eager to leverage technical expertise to drive data-driven decision-making and business success.</h3>
+<h3 align="center">Highly motivated Data Analyst with a strong academic background in data analytics, proﬁcient in Python and SQL. Skilled in data visualization using Tableau and PowerBI. Experienced in machine learning model training and evaluation. Eager to leverage technical expertise to drive data-driven decision-making and business success.</h3>
 
 
 
